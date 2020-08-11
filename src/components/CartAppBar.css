@@ -1,0 +1,13 @@
+.appbar__search {
+    display: flex;
+    width: 30vw;
+    margin-left: 50px;
+    margin-right: 50px;
+    flex-grow: 1;
+}
+
+.search_input {
+    background-color: aliceblue;
+    width: 30vw;
+    margin-left: 10px;
+}

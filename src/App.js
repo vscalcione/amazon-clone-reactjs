@@ -6,7 +6,7 @@ function App() {
   return (
     <Container>
       <CartAppBar />
-      Carrello della spesa
+      Shopping Cart
     </Container>
   );
 }
